@@ -1,12 +1,12 @@
 # zenbit
 
 # Запуск бекенда.
-1 npm install
-2 npm run devStart
+### 1 npm install
+### 2 npm run devStart
 
 # Запуск фронтенда.
-1 npm install
-2 npm start
+### 1 npm install
+### 2 npm start
 
 # Конфигурация база данных
 
